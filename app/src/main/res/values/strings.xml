@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dronestagram for Muzei</string>
+    <string name="source_name">Dronestagram</string>
+    <string name="source_description">Popular pictures taken from the sky</string>
+    <string name="action_share_artwork">Share picture</string>
+    <string name="dronestagram_source_error_no_artwork_to_share">No artwork to share.</string>
+</resources>
