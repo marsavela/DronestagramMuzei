@@ -8,4 +8,6 @@ Requires the Muzei Live Wallpaper made by Roman Nurik from http://get.muzei.co
 
 This is not an official Dronestagram app. All content displayed is property of their respective owners.
 
-[![screenshot help layout] (https://developer.android.com/images/brand/en_generic_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=la.marsave.dronestagrammuzei)
+[![get it now] (https://developer.android.com/images/brand/en_generic_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=la.marsave.dronestagrammuzei)
+
+![screenshots] (https://raw.githubusercontent.com/marsavela/DronestagramMuzei/art/screenshots.jpg)
