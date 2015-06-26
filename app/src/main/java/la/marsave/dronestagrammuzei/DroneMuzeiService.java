@@ -14,6 +14,9 @@ public interface DroneMuzeiService {
     @GET("/?json=1&count=10")
     DataResponse getData(@Query("page") int page);
 
+    @GET("/?json=1&count=10")
+    DataResponse getData();
+
     class DataResponse {
         int pages;
         List<Post> posts;

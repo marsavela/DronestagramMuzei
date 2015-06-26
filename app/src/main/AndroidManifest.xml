@@ -19,7 +19,15 @@
                 <action android:name="com.google.android.apps.muzei.api.MuzeiArtSource" />
             </intent-filter>
             <meta-data android:name="color" android:value="#e12444" />
+            <meta-data android:name="settingsActivity" android:value=".SettingsActivity" />
         </service>
+
+        <activity
+            android:name=".SettingsActivity"
+            android:exported="true"
+            android:icon="@drawable/ic_source"
+            android:label="@string/prefs_title"
+            android:theme="@style/Theme.Muzei" />
 
     </application>
 
